@@ -1,0 +1,6 @@
+.img {width: 300px;border: none;transition: 0.2s; border-radius:  20px}
+.img:hover{transform:scale(1.1) ;}
+.cars{transition: .2s;color: #f0f8ff;}
+.cars:hover{transform: scale(1.1);}
+.button{align-items: center;justify-content: center;}
+.button:hover{color: gray;}
